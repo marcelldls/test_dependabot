@@ -7,6 +7,6 @@
       "commitMessageAction": "Refresh pip-compile outputs"
     }
     "groupName": "all dependencies",
-    "groupSlug": "all",
+    "groupSlug": "all"
   }
 }

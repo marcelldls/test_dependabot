@@ -1,5 +1,5 @@
 {
-  "fileMatch": [],
+  "fileMatch": ["(^|/)requirements\\.in$"],
   "lockFileMaintenance": {
     "enabled": true,
     "branchTopic": "pip-compile-refresh",

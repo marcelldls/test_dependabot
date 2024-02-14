@@ -37,7 +37,7 @@ plumbum==1.8.2
 pre-commit==3.6.0
 prompt-toolkit==3.0.36
 py==1.11.0
-pydantic==2.5.3
+pydantic==2.6.1
 pydantic_core==2.14.6
 pydata-sphinx-theme==0.15.2
 Pygments==2.17.2

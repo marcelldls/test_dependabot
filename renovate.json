@@ -1,6 +1,6 @@
 {
   "pip-compile": {
-    "fileMatch": ["requirements.in", "requirements.txt"],
+    "fileMatch": ["requirements.txt"],
     "lockFileMaintenance": {
       "enabled": true,
       "branchTopic": "pip-compile-refresh",

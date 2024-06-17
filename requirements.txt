@@ -293,7 +293,7 @@ typing-extensions==4.9.0
     #   pydantic
     #   pydantic-core
     #   pydata-sphinx-theme
-urllib3==2.1.0
+urllib3==2.2.2
     # via
     #   -r requirements.in
     #   requests

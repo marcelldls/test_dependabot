@@ -164,7 +164,7 @@ plumbum==1.8.2
     # via
     #   -r requirements.in
     #   copier
-pre-commit==3.6.0
+pre-commit==3.8.0
     # via -r requirements.in
 prompt-toolkit==3.0.36
     # via

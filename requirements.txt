@@ -62,7 +62,7 @@ docutils==0.20.1
     #   myst-parser
     #   pydata-sphinx-theme
     #   sphinx
-dunamai==1.19.0
+dunamai==1.22.0
     # via
     #   -r requirements.in
     #   copier

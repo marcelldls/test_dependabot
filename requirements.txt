@@ -175,7 +175,7 @@ py==1.11.0
     #   -r requirements.in
     #   tox
     #   tox-direct
-pydantic==2.5.3
+pydantic==2.9.2
     # via
     #   -r requirements.in
     #   copier

@@ -166,7 +166,7 @@ plumbum==1.8.2
     #   copier
 pre-commit==3.6.0
     # via -r requirements.in
-prompt-toolkit==3.0.36
+prompt-toolkit==3.0.48
     # via
     #   -r requirements.in
     #   questionary

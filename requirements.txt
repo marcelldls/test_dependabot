@@ -281,7 +281,7 @@ tornado==6.4
     # via
     #   -r requirements.in
     #   livereload
-tox==3.28.0
+tox==4.23.2
     # via
     #   -r requirements.in
     #   tox-direct

@@ -297,7 +297,7 @@ urllib3==2.1.0
     # via
     #   -r requirements.in
     #   requests
-virtualenv==20.25.0
+virtualenv==20.36.1
     # via
     #   -r requirements.in
     #   pre-commit

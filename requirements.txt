@@ -46,7 +46,7 @@ colorama==0.4.6
     #   -r requirements.in
     #   copier
     #   sphinx-autobuild
-copier==9.1.1
+copier==9.14.1
     # via -r requirements.in
 decorator==5.1.1
     # via
